@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-20 — v0.3
+- Landing sincronizada com o último item real do CHANGELOG.
+
 ## 2026-09-19 — v0.2
 - Landing exibe o último item do CHANGELOG.
 
