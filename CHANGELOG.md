@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-28 — v0.11
+- Landing sincronizada com o último item real do CHANGELOG.
+
 ## 2026-09-27 — v0.10
 - Landing sincronizada com o último item real do CHANGELOG.
 
