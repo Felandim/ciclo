@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-02 — v0.15
+- Landing sincronizada com o último item real do CHANGELOG (v0.14).
+
 ## 2026-10-01 — v0.14
 - Landing sincronizada com o último item real do CHANGELOG.
 
