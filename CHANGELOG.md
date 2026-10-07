@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-07 — v0.20
+- Landing mostra a sequência: 20 dias seguidos, desde 2026-09-18.
+
 ## 2026-10-06 — v0.19
 - Landing sincronizada com o último item real do CHANGELOG (v0.18).
 
