@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-10 — v0.23
+- Landing alinhada ao último item real do CHANGELOG (v0.22) e sequência em 23 dias.
+
 ## 2026-10-09 — v0.22
 - Landing alinhada ao último item real do CHANGELOG (v0.21) e sequência em 22 dias.
 
